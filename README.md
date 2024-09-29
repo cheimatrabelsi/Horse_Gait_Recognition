@@ -23,7 +23,8 @@ This repository is designed to help recognize horse gaits based on skeleton anno
 ---
 
 ## Repository Structure
-
+<pre>
+<code>
 ├── Scripts/
 │   ├── 16FeatureModel.ipynb
 │   ├── 18FeatureModel.ipynb
@@ -39,6 +40,8 @@ This repository is designed to help recognize horse gaits based on skeleton anno
 - **Data_gen/**: Preprocessing, data splitting (cross-subject), and sequence extraction.
 - **Data/**: Stores raw data, processed sequences, and extracted features.
 - **Assets/**: Contains figures (confusion matrices, feature importance plots).
+</code>
+</pre>
 
 ## How to Use This Project
 

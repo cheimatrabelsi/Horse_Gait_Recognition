@@ -36,12 +36,13 @@ This repository is designed to help recognize horse gaits based on skeleton anno
 │   └── Features/
 ├── Assets/
 └── README.md
+</code>
+</pre>
 - **Scripts/**: Contains Jupyter notebooks for classification.
 - **Data_gen/**: Preprocessing, data splitting (cross-subject), and sequence extraction.
 - **Data/**: Stores raw data, processed sequences, and extracted features.
 - **Assets/**: Contains figures (confusion matrices, feature importance plots).
-</code>
-</pre>
+
 
 ## How to Use This Project
 
